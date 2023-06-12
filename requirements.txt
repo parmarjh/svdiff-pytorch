@@ -8,3 +8,8 @@ tensorboard
 Jinja2
 einops
 wandb
+streamlit
+torch
+numpy
+Pillow
+
